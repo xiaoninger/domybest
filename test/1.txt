@@ -1,0 +1,1 @@
+cc    -c -o amf0.o amf0.c
